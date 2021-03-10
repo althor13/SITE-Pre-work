@@ -37,7 +37,7 @@ On my code version of the web page the game works with sounds as intended but wh
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://github.com/althor13/SITE-Pre-work/blob/main/walkthrough.gif)
 
 
 ## Reflection Questions
