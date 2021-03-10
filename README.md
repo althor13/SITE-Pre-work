@@ -6,8 +6,7 @@ Submitted by: **Colton Sustaita-Robb**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
-
+Link to project: https://glitch.com/edit/#!/planet-gainful-country
 ## Required Functionality
 
 The following **required** functionality is complete:
@@ -32,7 +31,8 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
+## Notes
+On my code version of the web page the game works with sounds as intended but when I go over to a separate page with just the live site no sound is played. I could never fix and since it only appeared on the live site I had trouble finding the root cause with my lack of experience.
 
 ## Video Walkthrough
 
